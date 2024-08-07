@@ -132,8 +132,8 @@ def compare_audio_files(audio_file1, audio_file2):
         print("\nThe two audio files are different.")
 
 # Example usage:
-audio_file1 = "Callum_VoiceAI.mp3"  # Replace with your first audio file path
-audio_file2 = "Daniel_VoiceAI.mp3"  # Replace with your second audio file path
+audio_file1 = ""  # Replace with your first audio file path
+audio_file2 = ""  # Replace with your second audio file path
 
 compare_audio_files(audio_file1, audio_file2)
 
@@ -143,5 +143,3 @@ compare_audio_files(audio_file1, audio_file2)
 
 
 
-#Callum_VoiceAI.mp3
-#Daniel_VoiceAI.mp3
